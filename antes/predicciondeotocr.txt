@@ -1,0 +1,13 @@
+
+==================================================
+ INICIANDO EXTRACCIÓN DE TEXTO MANUSCRITO (HTR)
+==================================================
+Procesando: recorte_clase_0.jpg ...
+👉 Resultado: 'A Woman's Choice for the Year . The New York Times'
+--------------------------------------------------
+Procesando: recorte_clase_1.jpg ...
+👉 Resultado: 'Jane-WEETER by issue 1913'
+--------------------------------------------------
+Procesando: recorte_clase_2.jpg ...
+👉 Resultado: 'Michael Beian note'
+--------------------------------------------------

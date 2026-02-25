@@ -1,0 +1,10 @@
+# Rutas a tus carpetas de entrenamiento y validación
+# (Puedes usar rutas absolutas si te da problemas, pero relativas es mejor)
+train: ./dataset_actas/train/images
+val: ./dataset_actas/train/images # Como solo tenemos 1 foto por ahora, usamos la misma para validar
+
+# Número de clases
+nc: 4
+
+# Nombres de las clases (en el orden exacto de tus números 0, 1, 2, 3)
+names: ['nombre_titular', 'fecha_nacimiento', 'nombre_padre', 'nombre_madre']
